@@ -40,6 +40,7 @@
               <th>状態</th>
               <th>期限</th>
               <th>gitテスト</th>
+              <th>add_good_morning追加　</th>
               <th></th>
             </tr>
             </thead>
